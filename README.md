@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **java projects**
 
-- 👨‍💻 All of my projects are available at [pranesh-nikhar.web.app](pranesh-nikhar.web.app)
+- 👨‍💻 All of my projects are available at [pranesh.site](pranesh.site)
 
 - 💬 Ask me about **java, js, python**
 
