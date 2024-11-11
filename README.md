@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence & ML**
 
-- 🌱 I’m currently learning **Tensor Flow , PyTorch, Scikit learn, Pandas**
+- 🌱 I’m currently learning **Rust , DSA with JAVA and training AI models and Neural Networks**
 
-- 👯 I’m looking to collaborate on **java projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 👨‍💻 All of my projects are available at [pranesh.site](pranesh.site)
 
-- 💬 Ask me about **java, js, python**
+- 💬 Ask me about **java, js, python, rust, kotlin, go, c++, html, css**
 
 - 📫 How to reach me **praneshnikhar@gmail.com**
 
