@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=Profile%20views&color=0e75b6&style=flat" alt="praneshnikhar" /> </p>
 
-        - 🔭 I’m currently working on **ML &DL**
+        - 🔭 I’m currently working on ML &DL
 
-        - 🌱 I’m currently learning **DL & blockchain**
+        - 🌱 I’m currently learning DL & blockchain
 
-        - 👯 I’m looking to collaborate on **DL projects**
+        - 👯 I’m looking to collaborate on DL projects
 
-        - 👨‍💻 All of my projects are available at [pranesh.site](pranesh.site)
+        - 👨‍💻 All of my projects are available at [pranesh.site]
 
         - 📫 How to reach me **praneshnikhar@gmail.com**
 
