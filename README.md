@@ -37,14 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praneshnikhar" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=praneshnikhar&theme=react-dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/praneshnikhar.svg" alt="GitHub Contribution Calendar" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praneshnikhar&theme=gruvbox" alt="GitHub Trophies" />
-</p>
 
