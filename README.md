@@ -13,9 +13,12 @@
 
         - 👯 I’m looking to collaborate on DL projects
 
+        - experience in java, kotlin, rust, go, js, node.js, MERN, React
+
         - 👨‍💻 All of my projects are available at [pranesh.site]
 
         - 📫 How to reach me **praneshnikhar@gmail.com**
+        
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
