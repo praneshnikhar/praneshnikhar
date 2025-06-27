@@ -37,9 +37,8 @@
 </p>
 ### 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/praneshnikhar/praneshnikhar/output/github-snake.svg)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/praneshnikhar/praneshnikhar/output/github-snake-dark.svg)
+
 
 
 
