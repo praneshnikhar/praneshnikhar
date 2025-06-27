@@ -7,6 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=Profile%20views&color=0e75b6&style=flat" alt="praneshnikhar" /> </p>
 
+
         - 🔭 I’m currently working on ML &DL
 
         - 🌱 I’m currently learning DL & blockchain
