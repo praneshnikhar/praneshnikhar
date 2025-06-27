@@ -34,7 +34,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneshnikhar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-![Pranesh's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=praneshnikhar&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=radical)
+
+[![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneshnikhar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
