@@ -41,11 +41,9 @@
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/praneshnikhar/praneshnikhar/output/github-snake-dark.svg)
 
-![GitHub Snake Ocean](https://raw.githubusercontent.com/praneshnikhar/praneshnikhar/output/ocean.gif)
 
 
-[![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneshnikhar)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshnikhar&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
