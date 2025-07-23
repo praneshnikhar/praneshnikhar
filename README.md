@@ -17,7 +17,7 @@
 🤝 Open to collaborating on **AI + Blockchain** projects  
 💡 Skilled in **Java**, **Kotlin**, **Rust**, **Go**, **Node.js**, and the **MERN stack**  
 🚀 Focused on building scalable backend systems and AI-powered apps  
-🌐 Portfolio & projects: [**pranesh.site**](https://pranesh.site)  
+🌐 Portfolio & projects: [**praneshnikhar.vercel.app/**](https://praneshnikhar.vercel.app/)
 📫 Reach me at: **praneshnikhar@gmail.com**
 
 ---
@@ -34,9 +34,7 @@
   <a href="https://instagram.com/praneshnikhar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
-  <a href="https://discord.com/users/784281568939474955" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="30" height="30" />
-  </a>
+  
 </p>
 
 ---
@@ -48,7 +46,7 @@
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></a>
   <a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
+ 
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
