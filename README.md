@@ -7,8 +7,8 @@
 
 
 
-<img align="right" width="498" height="498" alt="Image" src="https://github.com/user-attachments/assets/62513fab-8a67-48e9-a7e3-d9b27b10bd12" />
-![Image](https://github.com/user-attachments/assets/62513fab-8a67-48e9-a7e3-d9b27b10bd12)
+<img align="right" width="249" height="249" alt="Image" src="https://github.com/user-attachments/assets/62513fab-8a67-48e9-a7e3-d9b27b10bd12" />
+
 
 <img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=👀%20Profile%20Hits&color=570987&style=for-the-badge" />
 
