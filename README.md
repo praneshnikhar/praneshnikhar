@@ -1,8 +1,7 @@
 [![MasterHead](https://github.com/user-attachments/assets/5bb334fa-352d-4da1-aa8b-453f56707db8)](https://pranesh.site)
 
-<h1 align="center">Hi 👋, I'm Pranesh Nikhar</h1>
 
-<h3 align="center">Passionate Backend Developer | Exploring AI, ML & Blockchain</h3>
+<h3 align="center">Backend Developer | Exploring AI, ML & Blockchain</h3>
 
 
 
