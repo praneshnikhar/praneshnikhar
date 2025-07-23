@@ -39,8 +39,6 @@
   
 </p>
 
----
-
 <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
@@ -59,7 +57,6 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
 </p>
 
----
 ![praneshnikhar's Stats](https://github-readme-stats.vercel.app/api?username=praneshnikhar&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 ![praneshnikhar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshnikhar&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
