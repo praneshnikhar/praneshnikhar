@@ -58,8 +58,6 @@
 </p>
 
 ---
-<p align="center">
-![Pranesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneshnikhar&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![praneshnikhar's Stats](https://github-readme-stats.vercel.app/api?username=praneshnikhar&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![praneshnikhar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshnikhar&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshnikhar&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
-</p>
