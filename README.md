@@ -21,7 +21,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-praneshnikhar%40gmail.com-6A42C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneshnikhar@gmail.com)
 
 
-<p align="left">
+<!--<p align="left">
   <a href="https://linkedin.com/in/praneshnikhar" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
@@ -32,7 +32,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
   
-</p>
+</p>-->
 
 <h3 align="left">Languages & Tools:</h3>
 
