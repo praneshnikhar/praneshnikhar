@@ -5,8 +5,9 @@
 <h3 align="center">A passionate backend developer!!</h3>
 
 <img align = “right”  width=“400” src=“[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif)”>
+<img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=👀%20Profile%20Hits&color=blue&style=plastic" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=Profile%20views&color=0e75b6&style=flat" alt="praneshnikhar" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=Profile%20views&color=E6E6FA&style=flat" alt="praneshnikhar" /> </p> -->
 
 
         - 🔭 I’m currently working on ML &DL
@@ -26,8 +27,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/pranesh nikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranesh nikhar" height="30" width="40" /></a>
 <a href="https://instagram.com/praneshnikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praneshnikhar" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/praneshnikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="praneshnikhar" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/praneshnikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praneshnikhar" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
