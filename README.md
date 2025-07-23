@@ -1,17 +1,7 @@
-[![MasterHead](https://github.com/user-attachments/assets/5bb334fa-352d-4da1-aa8b-453f56707db8)](https://pranesh.site)
-
-
+[![MasterHead](https://github.com/user-attachments/assets/5bb334fa-352d-4da1-aa8b-453f56707db8)](https://praneshnikhar.vercel.app/)
 <h3 align="center">Backend Developer | Exploring AI, ML & Blockchain</h3>
-
-
-
-
 <img align="right" width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/62513fab-8a67-48e9-a7e3-d9b27b10bd12" />
-
-
 <img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=👀%20Profile%20Hits&color=570987&style=for-the-badge" />
-
----
 
 🔭 Currently working on **Machine Learning**, **Deep Learning**, and **Blockchain**  
 🌱 Learning advanced concepts in **Web3**, **Smart Contracts**, and **Decentralized Applications**  
@@ -21,7 +11,6 @@
 🌐 Portfolio & projects: [**praneshnikhar.vercel.app/**](https://praneshnikhar.vercel.app/)
 📫 Reach me at: **praneshnikhar@gmail.com**
 
----
 
 <h3 align="left">Connect with me:</h3>
 
