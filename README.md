@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/user-attachments/assets/12dfe2fd-ea5d-47f5-bba0-beabd8589d6b)](https://pranesh.site)
+[![MasterHead](https://github.com/user-attachments/assets/5bb334fa-352d-4da1-aa8b-453f56707db8)](https://pranesh.site)
+![Image](https://github.com/user-attachments/assets/5bb334fa-352d-4da1-aa8b-453f56707db8)
 <h1 align="center">Hi 👋, I'm Pranesh Nikhar</h1>
 
 <h3 align="center">A passionate backend developer!!</h3>
