@@ -5,7 +5,7 @@
 <h3 align="center">A passionate backend developer!!</h3>
 
 <img align = “right”  width=“400” src=“[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif)”>
-<img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=👀%20Profile%20Hits&color=#E6E6FA&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=👀%20Profile%20Hits&color=E6E6FA&style=for-the-badge" />
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=Profile%20views&color=E6E6FA&style=flat" alt="praneshnikhar" /> </p> -->
 
