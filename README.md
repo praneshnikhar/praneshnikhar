@@ -13,6 +13,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+[![Instagram](https://img.shields.io/badge/Instagram-praneshnikhar-B13BFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praneshnikhar/)
+[![Discord](https://img.shields.io/badge/Discord-praneshnikhar-471396?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/784281568939474955)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranesh%20Nikhar-725CAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-nikhar/)
+[![X (Twitter)](https://img.shields.io/badge/X-PraneshNikhar-7F55B1?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PraneshNikhar)
+[![Gmail](https://img.shields.io/badge/Gmail-praneshnikhar%40gmail.com-6A42C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneshnikhar@gmail.com)
+</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/praneshnikhar" target="blank">
