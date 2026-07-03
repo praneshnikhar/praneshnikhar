@@ -8,7 +8,7 @@
 🤝 Open to collaborating on **AI + Blockchain** projects  
 💡 Skilled in **Java**, **Kotlin**, **Rust**, **Go**, **Node.js**, and the **MERN stack**  
 🚀 Focused on building scalable backend systems and AI-powered apps  
-🌐 Portfolio & projects: [**www.praneshnikhar.site**]([https://praneshnikhar.vercel.app/](https://www.praneshnikhar.site/))
+🌐 Portfolio & projects: [**www.praneshnikhar.site**](https://www.praneshnikhar.site/)
 📫 Reach me at: **praneshnikhar@gmail.com**
 
 
