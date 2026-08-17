@@ -1,12 +1,12 @@
 [![MasterHead](https://github.com/user-attachments/assets/5bb334fa-352d-4da1-aa8b-453f56707db8)](https://www.praneshnikhar.site/)
-<h3 align="center">Backend Developer | Exploring AI, ML & Blockchain</h3>
+<h3 align="center">Backend Developer | AI/ML | Web3</h3>
 <img align="right" width="180" height="180" alt="Image" src="https://github.com/user-attachments/assets/e333eb23-2bfb-4f01-a0ed-1aebd0b799eb" />
 <img src="https://komarev.com/ghpvc/?username=praneshnikhar&label=👀%20Profile%20Hits&color=570987&style=for-the-badge" />
+Currently exploring **AI Orchestration**, **Automation**, **ML/DL Pipelines**, **Web3**, **Smart Contracts**, and **Decentralized Applications**.
+I work across **Backend Development, Full-Stack Development, Machine Learning, and DSA**, with a focus on building practical systems and experimenting with emerging technologies.
+Portfolio & Projects: [**www.praneshnikhar.site**](https://www.praneshnikhar.site/)
+Reach me at: **[praneshnikhar@gmail.com](mailto:praneshnikhar@gmail.com)**
 
-Currently working on **Orchestration**, **Pipeline**, **Automtion**, **Machine Learning**, **Deep Learning**, **Web3**, **Smart Contracts**, and **Decentralized Applications** 
-can work on ML, full stack, dsa.
-Portfolio & projects: [**www.praneshnikhar.site**](https://www.praneshnikhar.site/)
-Reach me at: **praneshnikhar@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
